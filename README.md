@@ -1,3 +1,3 @@
-# FullStackOpen-Part0
+# Fundamentals of Web Apps
 
-Fundamentals of Web Apps
+FullStackOpen-Part0 
