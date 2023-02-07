@@ -1,104 +1,70 @@
- # Deep Dive Into Modern Web Development
+# Getting Started with Create React App
 
-## [Full Stack Open 2022](https://fullstackopen.com/en/)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Learn React, Redux, Node.js, MongoDB, GraphQL, TypeScript, React Native, GitHub Actions and Docker in one go! This course will introduce you to modern JavaScript-based web development. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js.
+## Available Scripts
 
-### [Part 0 - Fundamentals of Web apps](https://fullstackopen.com/en/part0)
+In the project directory, you can run:
 
-- General Info
-- Fundamentals of Web apps
+### `npm start`
 
-### [Part 1 - Introduction to React](https://fullstackopen.com/en/part1)
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-- Introduction to React
-- JavaScript
-- Component State, event handlers
-- A more complex state, debugging React apps
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-### [Part 2 - Communicating with server](https://fullstackopen.com/en/part2)
+### `npm test`
 
-- Rendering a collection, modules
-- Forms
-- Getting data from server
-- Altering data in server
-- Adding style to React apps
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### [Part 3 - Programming a server with NodeJS and Express](https://fullstackopen.com/en/part3)
+### `npm run build`
 
-- Node.js and Express
-- Deploying app to internet
-- Saving data to MongoDB
-- Validation and ESLint
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-### [Part 4 - Testing Express servers, user administration](https://fullstackopen.com/en/part4)
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-- Structure of backend application, introduction to testing
-- Testing and backend
-- User administration
-- Token administration
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### [Part 5 - Testing React apps](https://fullstackopen.com/en/part5)
+### `npm run eject`
 
-- Login in frontend
-- props.children and proptypes
-- Testing React apps
-- End to end testing
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-### [Part 6 - State management with Redux](https://fullstackopen.com/en/part6)
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-- Flux-architecture and Redux
-- Many reducers
-- Communicating with server in a redux application
-- Connect
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-### [Part 7 - React router, custom hooks, styling app with CSS and webpack](https://fullstackopen.com/en/part7)
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-- React-router
-- Custom hooks
-- More about styles
-- Webpack
-- Class components, Miscellaneous
-- Exercises - extending the bloglist
+## Learn More
 
-### [Part 8 - GraphQL](https://fullstackopen.com/en/part8)
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-- GraphQL-server
-- React and GraphQL
-- Database and user administration
-- Login and updating the cache
-- Fragments and subscriptions
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-### [Part 9 - TypeScript](https://fullstackopen.com/en/part9)
+### Code Splitting
 
-- Background and introduction
-- First steps with TypeScript
-- Typing the express app
-- React with types
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### [Part 10 - React Native](https://fullstackopen.com/en/part10)
+### Analyzing the Bundle Size
 
-- Introduction to React Native
-- React Native basics
-- Communicating with server
-- Testing and extending our application
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### [Part 11 - CI/CD](https://fullstackopen.com/en/part11)
+### Making a Progressive Web App
 
-- Introduction to CI/CD
-- Getting started with GitHub Actions
-- Deployment
-- Keeping green
-- Expanding further
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### [Part 12 - Containers](https://fullstackopen.com/en/part12)
+### Advanced Configuration
 
-- Introduction to containers
-- Building and configuring environments
-- Basics of Orchestration
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### [Part 13 - Using relational databases](https://fullstackopen.com/en/part13)
+### Deployment
 
-- Using relational databases with Sequelize
-- Join tables and queries
-- Migrations, many-to-many relationships
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
